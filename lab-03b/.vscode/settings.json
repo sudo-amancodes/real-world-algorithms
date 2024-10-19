@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "sortingbenchmark/lib/bridges-java-3.4.2.jar",
+        "lab-03b/lib/bridges-java-3.4.2.jar"
+    ]
+}
