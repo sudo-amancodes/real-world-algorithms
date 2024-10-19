@@ -14,6 +14,7 @@
 *.classpath
 *.settings/
 *.factorypath
+*.vscode
 
 # Ignore bin and lib directories
 bin/

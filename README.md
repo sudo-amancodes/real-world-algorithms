@@ -58,3 +58,8 @@ Each of the above algorithms was implemented and visualized using the **Bridges 
 
 ### Demo:
 
+![Quadtree Screenshot](quadtree.png)
+
+![Quadtree Search Screenshot](quadtree-search.png)
+
+*Screenshot of the quadtree and quadtree search interface.*
